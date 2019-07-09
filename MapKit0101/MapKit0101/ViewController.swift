@@ -4,7 +4,10 @@
 //
 //  Created by Luc Derosne on 09/07/2019.
 //  Copyright © 2019 Luc Derosne. All rights reserved.
-//
+
+
+// 1 Créer une carte, aucun code nécessaire.
+//   même pas l'import de MapKit
 
 import UIKit
 
