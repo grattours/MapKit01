@@ -31,7 +31,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
         mapView.setRegion(region, animated: true)
         mapView.delegate = self
         // mapView.isRotateEnabled = true
-        
+        // provisoirement ici...
         let sanjose = Poi(title: "San José aéroport", coordinate: CLLocationCoordinate2D(latitude: 9.998784, longitude: -84.204007), info: "Capitale du Costa Rica")
         let tortuguero = Poi(title: "Tortuguero", coordinate: CLLocationCoordinate2D(latitude: 10.542646, longitude: -83.502493), info: "Pontes des tortues")
         let sanrafael = Poi(title: "San Rafael", coordinate: CLLocationCoordinate2D(latitude: 10.678778, longitude: -84.819542), info: "Parc national")
@@ -45,10 +45,10 @@ class ViewController: UIViewController, MKMapViewDelegate {
         let bijagua = Poi(title: "Bijagua", coordinate: CLLocationCoordinate2D(latitude: 10.731481, longitude: -85.058486), info: "Rio Celeste")
         let fortuna = Poi(title: "La Fortuna", coordinate: CLLocationCoordinate2D(latitude: 10.519910, longitude: -84.635451), info: "Cascade piscine natuelle")
         
-                mapView.addAnnotations([sanjose, tortuguero, sanrafael, culebrabay, nicoya, golfito, quepos, cerrochirripo, talamanca, malpais, bijagua, fortuna])
+        mapView.addAnnotations([sanjose, tortuguero, sanrafael, culebrabay, nicoya, golfito, quepos, cerrochirripo, talamanca, malpais, bijagua, fortuna])
         
     }
 
 
-}
+} // class
 
