@@ -48,7 +48,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
         
 
     }
-
+// enrichir les annotations
     func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
         guard let annotation = annotation as? Poi else { return nil }
         let identifier = "poi"
