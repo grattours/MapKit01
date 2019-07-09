@@ -30,7 +30,7 @@ class ViewController: UIViewController, MKMapViewDelegate {
         mapView.showsUserLocation = true
         mapView.setRegion(region, animated: true)
         mapView.delegate = self
-        mapView.isRotateEnabled = true
+        // mapView.isRotateEnabled = true
         
         let sanjose = Poi(title: "San José aéroport", coordinate: CLLocationCoordinate2D(latitude: 9.998784, longitude: -84.204007), info: "Capitale du Costa Rica")
         let tortuguero = Poi(title: "Tortuguero", coordinate: CLLocationCoordinate2D(latitude: 10.542646, longitude: -83.502493), info: "Pontes des tortues")
