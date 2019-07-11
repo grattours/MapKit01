@@ -13,9 +13,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // pas de code, voir la suite 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
