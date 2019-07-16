@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 10  La notion d'Overlay
+// 11  réorganisation du code
 
 import UIKit
 import MapKit
