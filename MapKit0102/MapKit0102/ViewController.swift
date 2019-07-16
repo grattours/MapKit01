@@ -8,8 +8,8 @@
 
 // 2  Centrer une carte au démarrage sur des coordonnées précises
 
-import MapKit
 import UIKit
+import MapKit
 
 class ViewController: UIViewController, MKMapViewDelegate {
     
