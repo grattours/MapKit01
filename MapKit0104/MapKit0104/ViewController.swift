@@ -6,8 +6,8 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 4 placer plusieurs annotations, provisoirement, à partir du
-//   ViewDidload.
+// 4 placer plusieurs annotations,
+//   provisoirement à partir du ViewDidload.
 
 import UIKit
 import MapKit
