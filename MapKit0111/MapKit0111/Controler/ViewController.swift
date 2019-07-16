@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 11  réorganisation du code
+// 11  réorganisation   du   code
 
 import UIKit
 import MapKit
@@ -134,4 +134,4 @@ extension ViewController: CLLocationManagerDelegate {
     }
     
 
-}
+} // end
