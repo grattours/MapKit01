@@ -9,11 +9,12 @@
 // 1 Créer une carte, aucun code nécessaire.
 //   même pas l'import de MapKit
 
+
 import UIKit
 
 class ViewController: UIViewController {
 
-    // pas de code, voir la suite 
+// pas de code, voir la suite
     override func viewDidLoad() {
         super.viewDidLoad()
     }
