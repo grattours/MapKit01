@@ -6,6 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
+
 // classe des Points d'intérêt
 
 import MapKit

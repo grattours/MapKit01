@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 3 placer une seule   annotation avec des coordonnées Latitude-longitude
+// 3 placer une  annotation avec des coordonnées Latitude-longitude
 
 import MapKit
 import UIKit
