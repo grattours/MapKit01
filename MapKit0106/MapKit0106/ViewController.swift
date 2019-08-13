@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 6 Afficher une alerte sur le clic du bouton d’information (i)
+// 1.6 Afficher une alerte sur le clic du bouton d’information (i)
 
 import UIKit
 import MapKit

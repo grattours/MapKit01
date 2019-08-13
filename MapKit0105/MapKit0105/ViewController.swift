@@ -7,7 +7,7 @@
 //
 
 
-// 5 Enrichir les annotations avec des informations : les MKPinAnnotationView
+// 1.5 Enrichir les annotations avec des informations : les MKPinAnnotationView
 
 import UIKit
 import MapKit

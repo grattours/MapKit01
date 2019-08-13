@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 8 se localiser
+// 1.10 rotation de la `mapView` pour qu'elle pointe dans la même direction que l'utilisateur
 
 import UIKit
 import MapKit

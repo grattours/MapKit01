@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 2  Centrer une carte au démarrage sur des coordonnées précises
+// 1.2  Centrer une carte au démarrage sur des coordonnées précises
 
 import UIKit
 import MapKit

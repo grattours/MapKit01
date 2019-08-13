@@ -6,7 +6,7 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 //
 
-// 7 Ajouter les 3 types de carte : Standard Hybride Satellite
+// 1.7 Ajouter les 3 types de carte : Standard Hybride Satellite
 
 import UIKit
 import MapKit

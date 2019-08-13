@@ -6,8 +6,11 @@
 //  Copyright © 2019 Luc Derosne. All rights reserved.
 
 
-// 1 Créer une carte, aucun code nécessaire.
+// 1.1 Créer une carte, aucun code nécessaire.
 //   même pas l'import de MapKit
+//   Sérue 1 Démarrez avec Mapkit
+//   Série 2 Continuez avec Mapkit
+//   Série 3 Encore plus loin avec Mapkit
 
 
 import UIKit
